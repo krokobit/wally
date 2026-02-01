@@ -17,7 +17,7 @@ steps:
         "--image",
         "gcr.io/wally-registry-486020/wally-backend:$COMMIT_SHA",
         "--region",
-        "us-central1",
+        "europe-west1",
         "--platform",
         "managed",
         "--command",
